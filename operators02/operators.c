@@ -59,6 +59,16 @@ int main()
     ++c;
     printf("\na is %d", a);
     printf("\nb is %d", b);
-    printf("\nc is %d", c);
+    printf("\nc is %d \n", c);
+
+    // Bit-Wise Operator
+    printf("\na & b = %d", a & b);
+    printf("\na | b = %d", a | b);
+    printf("\na ^ b = %d", a ^ b);
+    printf("\na << b = %d", a << 2);
+    printf("\na >> b = %d\n", a >> 2);
+
+    // Conditional Operator
+    a % 2 == 0 ? printf("\n%d is even", a) : printf("\n%d is odd", a);
     return 0;
 }
