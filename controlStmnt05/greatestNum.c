@@ -18,6 +18,5 @@ int main()
     {
         printf("%d is greater than %d and %d", c, a, b);
     }
-
     return 0;
 }
