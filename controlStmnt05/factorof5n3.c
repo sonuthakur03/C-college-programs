@@ -1,4 +1,6 @@
-// Write a C program to take positive integer inout and tell if it is divisible by 5 or 3 but not dividible by 15 by using nested if statement.
+// Write a C program to take positive integer input and tell
+// if it is divisible by 5 or 3 but not divisible by 15 by
+//  using nested if statement.
 
 #include <stdio.h>
 #include <conio.h>
