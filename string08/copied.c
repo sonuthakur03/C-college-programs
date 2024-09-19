@@ -6,16 +6,10 @@ int main(){
 
     printf("Enter first word: ");
     gets(first);
-    printf("Enter second word: ");
-    gets(second);
     
-    if (strcmp(first,second) == 0)
-    {
-        printf("Names are equal");
-    } else
-    {
-        printf("Names are not equal");
-    }
-    
-    
+    strcpy(second, first);
+
+    printf("Copied word is: %s", second);
+      
+    return 0;
 }

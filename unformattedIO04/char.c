@@ -4,7 +4,7 @@ int main(){
 
     char gender;
 
-    printf("Enter gender M or F");
+    printf("Enter gender M or F: ");
 
     gender = getchar();
     printf("Your Gender is: ");

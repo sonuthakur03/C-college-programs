@@ -9,4 +9,6 @@ int main(){
     int length = strlen(name);
 
     printf("Length is %d", length);
+
+    return 0;
 }

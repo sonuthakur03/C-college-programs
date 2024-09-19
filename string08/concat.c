@@ -12,4 +12,6 @@ int main(){
     strcat(first,second);
 
     printf("Combined word is: %s", first);
+
+    return 0;
 }
