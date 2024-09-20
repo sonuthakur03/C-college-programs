@@ -1,3 +1,5 @@
+// WAP to print sum using functions and pointers
+
 #include<stdio.h>
 
 int sum(int*, int*);

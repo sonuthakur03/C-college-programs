@@ -1,3 +1,5 @@
+// WAP to print factorial using pointers
+
 #include<stdio.h>
 
 int main(){

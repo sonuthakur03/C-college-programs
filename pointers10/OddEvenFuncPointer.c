@@ -1,3 +1,5 @@
+// WAP to print odd or even using function and pointers
+
 #include<stdio.h>
 
 int oddEven(int*);

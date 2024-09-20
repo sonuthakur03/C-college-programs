@@ -1,3 +1,5 @@
+// WAP to print sum of array using pointers
+
 #include <stdio.h>
 #include <conio.h>
 int main()

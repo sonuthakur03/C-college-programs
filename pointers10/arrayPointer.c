@@ -1,3 +1,5 @@
+// WAP to print array using pointers. 
+
 #include<stdio.h>
 
 int main(){
