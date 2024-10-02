@@ -1,0 +1,4 @@
+Sonu Thakur	20	80.000000	
+Student name is Sonu Thakur
+Student age is 20
+Student marks is 80.000000
