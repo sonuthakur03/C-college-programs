@@ -1,3 +1,5 @@
+// 02. WAP to print data of student using conditionals and structure array who have scored more than 250 marks.
+
 #include <stdio.h>
 
 struct structureArray

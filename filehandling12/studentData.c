@@ -1,3 +1,5 @@
+// 02. WAP to print students name, marks and print the data of student in "studentdata".
+
 #include <stdio.h>
 
 int main()

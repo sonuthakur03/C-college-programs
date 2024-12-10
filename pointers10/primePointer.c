@@ -1,3 +1,5 @@
+// 03. WAP to print prime or not using pointers.
+
 #include <stdio.h>
 
 void checkPrime(int*, int*);

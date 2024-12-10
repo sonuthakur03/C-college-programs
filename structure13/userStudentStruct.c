@@ -1,3 +1,5 @@
+// 01. WAP to print student name, roll, marks, remarks using structure. 
+
 #include <stdio.h>
 struct student
 {

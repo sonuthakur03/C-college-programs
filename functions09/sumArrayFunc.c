@@ -1,3 +1,5 @@
+// 01. WAP to find sum of array using function.
+
 #include<stdio.h>
 
 int sum(int a[]);

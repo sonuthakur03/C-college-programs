@@ -1,3 +1,5 @@
+// 04. WAP to print the sum of odd and sum of even in an array using pointers.
+
 #include <stdio.h>
 #include <conio.h>
 int main()

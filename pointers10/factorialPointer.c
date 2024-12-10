@@ -1,4 +1,4 @@
-// WAP to print factorial using pointers
+// 05.WAP to print factorial using pointers
 
 #include<stdio.h>
 

@@ -1,3 +1,5 @@
+// 01. WAP to copy one string to another variable
+
 #include<stdio.h>
 #include<string.h>
 

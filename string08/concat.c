@@ -1,3 +1,5 @@
+// 02. WAP to concat two strings using strings
+
 #include<stdio.h>
 #include<string.h>
 

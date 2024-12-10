@@ -1,3 +1,5 @@
+//   01. WAP to print employee id, name, post, salary using file handling in "empdata.txt".
+ 
  #include <stdio.h>
 
  int main() {

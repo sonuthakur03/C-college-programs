@@ -1,3 +1,5 @@
+// 03. WAP to find if the string is palindrome or not.
+
 #include <stdio.h>
 #include <string.h>
 

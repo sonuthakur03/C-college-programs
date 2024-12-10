@@ -1,3 +1,5 @@
+// 03. WAP to find minimum and maximum from a array using DMA in C.
+
 #include<stdio.h>
 #include<stdlib.h>
 

@@ -1,3 +1,5 @@
+// 02. WAP to find odd or even using DMA in c.
+
 #include<stdio.h>
 #include<stdlib.h>
 

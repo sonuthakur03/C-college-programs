@@ -1,4 +1,4 @@
-// WAP to print sum of array using pointers
+// 02.WAP to print sum of array using pointers
 
 #include <stdio.h>
 #include <conio.h>

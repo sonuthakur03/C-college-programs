@@ -1,3 +1,5 @@
+// 02. WAP to find fibonnaci series using recursion.
+
 #include <stdio.h>
 
 int fibonacci(int n) {
