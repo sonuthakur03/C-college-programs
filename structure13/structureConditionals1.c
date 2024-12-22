@@ -18,13 +18,13 @@ int main() {
 
     for (int i = 0; i < 3; i++)
     {
-        printf("Enter the roll\n");
+        printf("Enter the roll: ");
         scanf("%d",&s[i].roll);
-        printf("Enter the name\n");
+        printf("Enter the name: ");
         scanf("%s",s[i].name);
-        printf("Enter the address\n");
+        printf("Enter the address: ");
         scanf("%s",s[i].address);
-        printf("Enter the marks\n");
+        printf("Enter the marks: ");
         scanf("%d",&s[i].marks);
     }
 

@@ -12,9 +12,6 @@ int main() {
 
     rectangle(left, top, right, bottom);
 
-    // setfillstyle(SOLID_FILL, YELLOW); // Set fill style and color
-    // floodfill((left + right) / 2, (top + bottom) / 2, WHITE); // Fill the rectangle
-
     getch();
 
     closegraph();
